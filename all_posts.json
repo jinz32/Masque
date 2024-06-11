@@ -1,0 +1,41 @@
+{
+    "posts": [
+              {
+              "name": "Avni Barman",
+              "location": {
+                    "city": "Los Angeles",
+                    "state": "CA"
+              },
+              "profileImageName": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/17458186_1267974996648203_6951156693000357520_n.png?oh=c5dc8527932dc00d4bd10596a9c9f211&oe=59888CEB",
+              "statusText": "I like eggs",
+              "statusImageName": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16864702_1250971651606117_3453247331962001581_n.png?oh=324b9d309a91b1500b95273f869eb256&oe=59BE5E0B",
+              "numLikes": 150,
+              "numComments": 300,
+              "information": "some information text"
+              },
+              {
+              "name": "Charlie Hwang",
+              "location": {
+                    "city": "Los Angeles",
+                    "state": "CA"
+              },
+              "profileImageName": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/17458186_1267974996648203_6951156693000357520_n.png?oh=c5dc8527932dc00d4bd10596a9c9f211&oe=59888CEB",
+              "statusText": "I like cookies",
+              "statusImageName": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16864702_1250971651606117_3453247331962001581_n.png?oh=324b9d309a91b1500b95273f869eb256&oe=59BE5E0B",
+              "numLikes": 111,
+              "numComments": 222
+              },
+              {
+              "name": "Jason Zheng",
+              "location": {
+                    "city": "Los Angeles",
+                    "state": "CA"
+              },
+              "profileImageName": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/17458186_1267974996648203_6951156693000357520_n.png?oh=c5dc8527932dc00d4bd10596a9c9f211&oe=59888CEB",
+              "statusText": "chill breh",
+              "statusImageName": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16864702_1250971651606117_3453247331962001581_n.png?oh=324b9d309a91b1500b95273f869eb256&oe=59BE5E0B",
+              "numLikes": 333,
+              "numComments": 444
+              }
+    ]
+}

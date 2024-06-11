@@ -1,0 +1,41 @@
+{
+    "posts": [
+              {
+                  "name": "Fred Lin",
+                  "location": {
+                      "city": "Los Angeles",
+                      "state": "CA"
+                  },
+                  "profileImageName": "avni",
+                  "statusText": "I like eggs",
+                  "statusImageName": "page3",
+                  "numLikes": 150,
+                  "numComments": 300,
+                  "information": "some information text"
+                  },
+                  {
+                  "name": "Zenni Duong",
+                  "location": {
+                      "city": "Los Angeles",
+                      "state": "CA"
+                  },
+                  "profileImageName": "charlie",
+                  "statusText": "I like cookies",
+                  "statusImageName": "page2",
+                  "numLikes": 111,
+                  "numComments": 222
+                  },
+                  {
+                  "name": "Jonathan Zheng",
+                  "location": {
+                      "city": "Los Angeles",
+                      "state": "CA"
+                  },
+                  "profileImageName": "jason",
+                  "statusText": "chill breh",
+                  "statusImageName": "page1",
+                  "numLikes": 333,
+                  "numComments": 444
+                  }
+              ]
+}
